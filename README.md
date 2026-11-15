@@ -1,4 +1,4 @@
-# WrtShiftSync (iOS) 📱✨
+# WrtShiftSync (iOS/Web) 📱✨
 
 Bem-vindo ao portal privado de sincronização de horários! Esta ferramenta foi criada para simplificar a tua vida: pega no horário em formato PDF e transforma-o automaticamente num ficheiro de calendário pronto a instalar no teu iPhone, de forma 100% segura, privada e sem complicações.
 
